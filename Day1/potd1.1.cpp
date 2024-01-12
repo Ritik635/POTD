@@ -9,7 +9,7 @@ using namespace std;
 
 class Solution{
 public:	
-	// Function returns the second
+	// Function returns the second 
 	// largest elements
 	
 	// Time Complexity O(n)
