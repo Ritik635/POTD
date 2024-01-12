@@ -25,7 +25,7 @@ public:
 };
 
 
-//Approach 2
+// Approach 2
 
 class Solution {
 public:
